@@ -1,0 +1,68 @@
+{{ define "main" }}
+<div class="hx:mx-auto hx:flex hextra-max-page-width">
+  {{ partial "sidebar.html" (dict "context" . "disableSidebar" true "displayPlaceholder" true) }}
+  <article class="hx:w-full hx:break-words hx:flex hx:min-h-[calc(100vh-var(--navbar-height))] hx:min-w-0 hx:justify-center hx:pb-8 hx:pr-[calc(env(safe-area-inset-right)-1.5rem)]">
+    <main class="hx:w-full hx:max-w-6xl hx:px-6 hx:pt-4 hx:md:px-12">
+      <br class="hx:mt-1.5 hx:text-sm" />
+      {{ if .Title }}
+        <h1 class="hx:text-center hx:mt-2 hx:text-4xl hx:font-bold hx:tracking-tight hx:text-slate-900 hx:dark:text-slate-100">{{ .Title }}</h1>
+      {{ end }}
+      <div class="content">{{ .Content }}</div>
+      <!-- Responsive card grid -->
+      <div class="hx:grid hx:grid-cols-1 hx:sm:max-lg:grid-cols-2 hx:md:grid-cols-2 hx:lg:grid-cols-3 hx:gap-8 hx:mt-10">
+        {{- $members := slice }}
+        {{- range $slug, $member := site.Data.authors }}
+          {{- $members = $members | append (dict "slug" $slug "data" $member) }}
+        {{- end }}
+        {{- range sort $members "data.joinDate" "desc" }}
+          <div class="hx:bg-slate-50 hx:dark:bg-slate-800 hx:p-6 hx:rounded-xl hx:shadow-sm hx:flex hx:flex-col hx:items-center">
+            {{ with .data.image }}
+              <img 
+                src="{{ . }}" 
+                style="max-width:4rem;max-height:4rem;"
+                class="hx:h-24 hx:w-24 hx:rounded-full hx:object-cover hx:object-center hx:mb-4 hx:shadow"
+                loading="lazy"
+              />
+            {{ end }}
+            <a href="{{ .data.link }}" class="hx:font-semibold hx:text-xl hover:underline hx:text-slate-900 hx:dark:text-slate-100 hx:mb-1">
+              {{ .data.name }}
+            </a>
+            <div class="hx:text-gray-500 hx:text-sm hx:text-center hx:mb-2">
+              {{ .data.bio }}
+            </div>
+            <div class="hx:mb-2 hx:flex hx:gap-1 hx:flex-wrap hx:justify-center">
+              {{- range .data.categories }}
+                {{ partial "category.html" (dict "content" . ) }}
+              {{- end }}
+            </div>
+            <div class="hx:text-xs hx:opacity-70 hx:mb-2">Joined: {{ .data.joinDate | dateFormat "Jan 2006" }}</div>
+            <!-- Social (GitHub, etc) -->
+            <div class="hx:mt-auto hx:flex hx:gap-2">
+              {{- with .data.website }}
+                <a href="{{ . }}" title="Website" target="_blank" class="inline-block mr-2" rel="noopener">
+                  {{ partial "icon.html" (dict "name" "globe") }}
+                </a>
+              {{- end }}
+              {{- with .data.github }}
+                <a href="https://github.com/{{ . }}" title="GitHub" target="_blank" class="inline-block mr-2" rel="noopener">
+                  {{ partial "icon.html" (dict "name" "github") }}
+                </a>
+              {{- end }}
+              {{- with .data.twitter }}
+                <a href="https://twitter.com/{{ . }}" title="Twitter" target="_blank" class="inline-block mr-2" rel="noopener">
+                  {{ partial "icon.html" (dict "name" "twitter") }}
+                </a>
+              {{- end }}
+              {{- with .data.linkedin }}
+                <a href="https://linkedin.com/in/{{ . }}" title="Twitter" target="_blank" class="inline-block mr-2" rel="noopener">
+                  {{ partial "icon.html" (dict "name" "linkedin") }}
+                </a>
+              {{- end }}
+            </div>
+          </div>
+        {{- end }}
+    </main>
+  </article>
+  <div class="hx:max-xl:hidden hx:h-0 hx:w-64 hx:shrink-0"></div>
+</div>
+{{ end }}

@@ -1,10 +1,15 @@
 # Hugo configuration file
-title: My Site
+baseURL: "https://libbabel.so"
+title: "Library of Babel"
+
+enableRobotsTxt: true
+enableGitInfo: true
+enableEmoji: true
+hasCJKLanguage: false
+enableInlineShortcodes: true
 
 # import hextra as module
-module:
-  imports:
-    - path: github.com/imfing/hextra
+theme: hextra
 
 markup:
   # allow raw html
@@ -18,39 +23,80 @@ markup:
 
 menu:
   main:
-    - name: Docs
-      pageRef: /docs
+    # - name: Docs
+    #   pageRef: /docs
+    #   weight: 1
+    - name: Members
+      pageRef: /members
       weight: 1
-    - name: About
-      pageRef: /about
+    - name: Writeups
+      pageRef: /writeups
       weight: 2
-    - name: Contact ↗
-      url: "https://github.com/imfing"
-      weight: 3
     - name: Search
-      weight: 4
+      weight: 3
       params:
         type: search
-    - name: GitHub
-      weight: 5
-      url: "https://github.com/imfing/hextra-starter-template"
-      params:
-        icon: github
-    - name: Twitter
-      weight: 6
-      url: "https://twitter.com/"
-      params:
-        icon: x-twitter
+    # - name: GitHub
+    #   weight: 5
+    #   url: "https://github.com/imfing/hextra-starter-template"
+    #   params:
+    #     icon: github
+    # - name: Twitter
+    #   weight: 6
+    #   url: "https://twitter.com/"
+    #   params:
+    #     icon: x-twitter
 
 params:
+  description: Website of libbabel.so, the CTF Team of IIT Kharagpur
+
   navbar:
-    displayTitle: true
+    displayTitle: false
     displayLogo: false
 
+  page:
+    width: normal
+
+  theme: 
+    default: dark
+    displayToggle: true
+
   footer:
-    displayCopyright: false
+    enable: true
+    displayCopyright: true
     displayPoweredBy: true
+    width: normal
+
+  displayUpdatedDate: true
+  dateFormat: "January 1, 2025"
 
   editURL:
-    enable: true
-    base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+    enable: false
+    # base: "https://github.com/imfing/hextra-starter-template/edit/main/content"
+  
+  blog:
+    list:
+      displayTags: true
+      # date | lastmod | publicDate| title | weight
+      sortBy: date
+      sortOrder: desc
+    article: 
+      displayPagination: true
+
+  toc: 
+    displayTags: true
+
+  highlight:
+    copy:
+      enable: true
+      # hover | always
+      display: hover
+
+  comments: 
+    enable: false
+    # type: giscus
+
+taxonomies:
+  author: "authors"
+  tag: "tags"
+  category: "categories"
