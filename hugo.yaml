@@ -29,11 +29,14 @@ menu:
     - name: Members
       pageRef: /members
       weight: 1
+    - name: CTFs
+      pageRef: /ctfs
+      weight: 2
     - name: Writeups
       pageRef: /writeups
-      weight: 2
-    - name: Search
       weight: 3
+    - name: Search
+      weight: 4
       params:
         type: search
     # - name: GitHub
