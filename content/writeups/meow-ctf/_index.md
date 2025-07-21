@@ -1,3 +1,0 @@
----
-title: Meow CTF
----
