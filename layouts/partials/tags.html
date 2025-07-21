@@ -1,0 +1,7 @@
+{{- range $tag := .Params.tags -}}
+  {{- with $.Site.GetPage (path.Join "tags" $tag) -}}
+    <a class="hx:inline-block hx:mr-2" href="{{ .RelPermalink }}">
+      {{ partial "badge.html" (dict "content" $tag) }}
+    </a>
+  {{- end -}}
+{{- end -}}

@@ -50,13 +50,4 @@
 
 {{- $categoryURL := printf "/category/%s" (urlize $content) -}}
 
-<span class="hextra-badge {{ $class }}">
-  <span class="hx:inline-flex hx:gap-1 hx:items-center hx:rounded-full hx:px-2.5 hx:leading-6 hx:text-[.65rem] {{ $borderClass }} {{ $badgeClass }}">
-    <a href="{{ $categoryURL }}" class="hx:group-hover:underline no-underline {{ $badgeClass }}">
-      {{- with $iconName -}}
-        {{ partial "icon.html" (dict "name" . "attributes" "height=14") }}
-      {{- end -}}
-      {{- $content -}}
-    </a>
-  </span>
-</span>
+{{ partial "badge.html" (dict "content" $content "icon" $iconName "class" $badgeClass "type" "cat")}}
