@@ -2,7 +2,7 @@
 title: "RSA-1"
 date: 2025-08-21T10:25:35+05:30
 tags: ["XORing"]
-categories: ["cry"] # for | cry | osint | rev | pwn 
+categories: ["crypto"] # for | cry | osint | rev | pwn 
 authors: ["pastimeplays"]
 description: " "
 ---

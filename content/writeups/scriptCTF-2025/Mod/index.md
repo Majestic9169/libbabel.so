@@ -2,7 +2,7 @@
 title: "Mod"
 date: 2025-08-22T14:39:28+05:30
 tags: ['Common Sense','Python Fundamentals']
-categories: ['cry'] # for | cry | osint | rev | pwn 
+categories: ['crypto'] # for | cry | osint | rev | pwn 
 authors: ["pastimeplays"]
 description: "Why doesn't this have more solves"
 ---

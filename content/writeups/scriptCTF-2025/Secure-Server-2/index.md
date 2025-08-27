@@ -2,7 +2,7 @@
 title: "Secure-Server-2"
 date: 2025-08-22T14:52:52+05:30
 tags: ["AES","Wireshark"]
-categories: ['cry'] # for | cry | osint | rev | pwn 
+categories: ['crypto'] # for | cry | osint | rev | pwn 
 authors: ['pastimeplays']
 description: "Slight upgrade of the previous version"
 ---
@@ -90,7 +90,7 @@ S : Quadriple encrypted secret (in hex): 0239bcea627d0ff4285a9e114b660ec0e97f650
 S : Decrypt the above with your keys again (in hex): 
 JD : 4b3d1613610143db984be05ef6f37b31790ad420d28e562ad105c7992882ff34
 
-Secret received!
+S : Secret received!
 ```
 
 --- 
@@ -146,7 +146,7 @@ This gives us $k3$ + $k4$ as - ```b'f8d}'```
 
 ### Getting John's keys
 
-The approach is pretty much the same here, the only change is the plaintext value and the fact that $k2$ aslo depends on 2 unknown bytes. 
+The approach is pretty much the same here, the only change is the plaintext value and the fact that $k2$ also depends on 2 unknown bytes. 
 ```python
 pt = bytes.fromhex("4b3d1613610143db984be05ef6f37b31790ad420d28e562ad105c7992882ff34")
 for k2 in range(256**2):

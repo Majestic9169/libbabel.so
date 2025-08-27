@@ -1,17 +1,26 @@
 subzcuber:
   name: "subzcuber"
-  link: "/members/subzcuber"
+  link: "/members/"
   bio: "hiiii :3"
   image: "https://avatars.githubusercontent.com/u/139123892?v=4"
-  categories: ["for", "rev", "pwn"]
+  categories: ["for","rev"]
   joinDate: "2025-07-20"
   website: "https://majestic9169.github.io"
   github: "Majestic9169"
 pastimeplays: 
   name: "pastimeplays"
-  link: "/members/pastimeplays"
+  link: "/members/"
   bio: "i like balls"
   image: "https://avatars.githubusercontent.com/u/179513085?v=4"
-  categories: ["crypto", "osint"]
+  categories: ["crypto", "osint", "for"]
   joinDate: "2025-07-20"
   github: "VaibhavR05"
+_cerealsoup: 
+  name: "_cerealsoup"
+  link: "/members/"
+  bio: "i like sushi"
+  image: "https://avatars.githubusercontent.com/u/62807269?v=4"
+  categories: ["web", "rev", "pwn"]
+  joinDate: "2025-07-20"
+  github: "DarkGuy10"
+  website: "https://promptfolio.vercel.app/"
