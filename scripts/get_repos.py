@@ -41,7 +41,7 @@ with open("./data/ctf_ids.yaml", "r") as file:
                 info['position'] = CTF['position']
                 info['team_name'] = CTF['team_name']
                 CTF_DATA.append(info)
-                CTF_DATA = sorted(CTF_DATA, key=lambda CTF_DATA: CTF_DATA['start'])
+                CTF_DATA = sorted(CTF_DATA, key=lambda CTF_DATA: CTF_DATA['start'], reverse=True)
             else:
                 print(ERROR, "[-] ERROR: ", res.status_code)
         except:

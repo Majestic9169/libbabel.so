@@ -6,6 +6,7 @@ on:
   push:
     paths:
       - data/ctf_ids.yaml
+      - data/ctf_data.yaml
       - scripts/**
       - .github/workflows/ctf_data.yaml
 
