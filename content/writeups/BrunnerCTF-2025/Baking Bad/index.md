@@ -3,7 +3,7 @@ title: "Baking Bad"
 date: 2025-08-31T11:37:24+05:30
 tags: ['RCE']
 categories: ['web'] # for | cry | osint | rev | pwn 
-authors: ['harshit-jain52']
+authors: ['harshit_jain52']
 description: "injecttt!"
 ---
 

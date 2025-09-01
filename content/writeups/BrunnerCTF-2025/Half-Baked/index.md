@@ -3,7 +3,7 @@ title: "Half Baked"
 date: 2025-08-31T11:27:07+05:30
 tags: ["RSA"]
 categories: ["crypto"] # for | cry | osint | rev | pwn
-authors: ["harshit-jain52"]
+authors: ["harshit_jain52"]
 description: "2 is a prime number"
 ---
 

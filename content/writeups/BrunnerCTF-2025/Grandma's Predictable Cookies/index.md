@@ -3,7 +3,7 @@ title: "Grandma's Predictable Cookies"
 date: 2025-08-31T11:51:46+05:30
 tags: ['brute force']
 categories: ['rev'] # for | cry | osint | rev | pwn 
-authors: ['harshit-jain52']
+authors: ['harshit_jain52']
 description: "not so random"
 ---
 

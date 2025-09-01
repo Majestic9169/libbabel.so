@@ -3,7 +3,7 @@ title: "Othello Villains"
 date: 2025-08-31T12:03:16+05:30
 tags: ['buffer overflow']
 categories: ['pwn'] # for | cry | osint | rev | pwn 
-authors: ['harshit-jain52']
+authors: ['harshit_jain52']
 description: "basic bof"
 ---
 
