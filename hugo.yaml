@@ -10,6 +10,7 @@ enableInlineShortcodes: true
 
 # import hextra as module
 theme: hextra
+summaryLength: 10
 
 markup:
   # allow raw html
