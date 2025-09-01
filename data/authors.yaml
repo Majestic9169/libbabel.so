@@ -24,3 +24,12 @@ _cerealsoup:
   joinDate: "2025-07-20"
   github: "DarkGuy10"
   website: "https://promptfolio.vercel.app/"
+harshit-jain52:
+  name: "harshit-jain52"
+  link: "/members/"
+  bio: "attack!"
+  image: "https://avatars.githubusercontent.com/u/117633610?v=4"
+  categories: ["web","pwn","crypto"]
+  joinDate: "2025-07-20"
+  website: "https://harshit-jain52.github.io/ctf/"
+  github: "harshit-jain52"
