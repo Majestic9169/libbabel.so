@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 tags: []
-categories: [] # for | cry | osint | rev | pwn 
+categories: [] # for | crypto | osint | rev | pwn 
 authors: []
 description: ""
 ---

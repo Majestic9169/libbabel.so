@@ -1,0 +1,66 @@
+# Workflow for updating CTFs table whenever ctf_ids.yaml is updated
+name: update CTFs table
+
+on:
+  # Runs only when ctf_ids.yaml is updated
+  push:
+    paths:
+      - data/ctf_ids.yaml
+      - .github/workflows/ctf_data.yaml
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Allow only one concurrent deployment, skipping runs queued between the run in-progress and latest queued.
+# However, do NOT cancel in-progress runs as we want to allow these production deployments to complete.
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+# Default to bash
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  # Build job
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      # setup and run python
+      - name: checkout repo content
+        uses: actions/checkout@v4
+      - name: setup python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+      - name: install dependencies
+        run: | 
+          python -m pip install --upgrade pip
+          pip install -r scripts/requirements.txt
+      - name: fetch ctf data
+        run: python scripts/get_repos.py
+      # push data to repo
+      - name: Configure Git
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+      - name: Commit and Push changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          if [ -n "$(git status --porcelain data/)" ]; then
+            echo "[+] data/ctf_data.yaml has been updated"
+            git add data/ctf_data.yaml
+            git commit -m "chore(data): update ctfs data"
+            git push https://x-access-token:${GITHUB_TOKEN}@github.com/${{ github.repository }} HEAD:${{ github.ref }}
+          else
+            echo "[-] No change in data/ctf_data.yaml"
+          fi
+
