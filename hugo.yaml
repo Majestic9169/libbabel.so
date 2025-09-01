@@ -51,18 +51,14 @@ menu:
     #   url: "https://github.com/imfing/hextra-starter-template"
     #   params:
     #     icon: github
-    # - name: Twitter
-    #   weight: 6
-    #   url: "https://twitter.com/"
-    #   params:
-    #     icon: x-twitter
 
 params:
   description: Website of libbabel.so, the CTF Team of IIT Kharagpur
+  externalLinkDeocration: true
 
   navbar:
-    displayTitle: false
-    displayLogo: false
+    displayTitle: true
+    displayLogo: true
 
   page:
     width: normal
@@ -78,7 +74,7 @@ params:
     width: normal
 
   displayUpdatedDate: true
-  dateFormat: "January 1, 2025"
+  dateFormat: "January 2, 2006"
 
   editURL:
     enable: false
