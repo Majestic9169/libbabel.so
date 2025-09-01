@@ -4,7 +4,7 @@ date: 2025-08-31T11:41:45+05:30
 tags: ['graphql','injection']
 categories: ['web'] # for | cry | osint | rev | pwn 
 authors: ['harshit-jain52']
-description: ""
+description: "my intro to GraphQL"
 ---
 
 # Brunner's Bakery

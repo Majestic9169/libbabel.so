@@ -4,7 +4,7 @@ date: 2025-08-31T11:27:07+05:30
 tags: ["RSA"]
 categories: ["cry"] # for | cry | osint | rev | pwn
 authors: ["harshit-jain52"]
-description: ""
+description: "2 is a prime number"
 ---
 
 # Half Baked

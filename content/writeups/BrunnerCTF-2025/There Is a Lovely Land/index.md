@@ -4,7 +4,7 @@ date: 2025-08-31T11:33:18+05:30
 tags: []
 categories: ['osint'] # for | cry | osint | rev | pwn 
 authors: ['harshit-jain52']
-description: ""
+description: "effortless"
 ---
 
 # There Is a Lovely Land

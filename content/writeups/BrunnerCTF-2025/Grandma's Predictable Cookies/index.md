@@ -4,7 +4,7 @@ date: 2025-08-31T11:51:46+05:30
 tags: ['brute force']
 categories: ['rev'] # for | cry | osint | rev | pwn 
 authors: ['harshit-jain52']
-description: ""
+description: "not so random"
 ---
 
 # Grandma's Predictable Cookies

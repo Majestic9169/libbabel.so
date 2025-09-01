@@ -4,7 +4,7 @@ date: 2025-08-31T11:56:50+05:30
 tags: ['simplify']
 categories: ['rev'] # for | cry | osint | rev | pwn 
 authors: ['harshit-jain52']
-description: ""
+description: "my eyes! my eyes!"
 ---
 
 # Trippi Troppa Chaos
