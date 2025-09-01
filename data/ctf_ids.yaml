@@ -1,4 +1,19 @@
-down-under-ctf:
+brunnerctf-2025:
+  ctftime_id: 2835
+  position: 56
+  team_name: "Milchlautsprecher"
+  comments: "vaibhav add some comments"
+tfc-ctf-2025:
+  ctftime_id: 2822
+  position: 74
+  team_name: "Milchlautsprecher"
+  comments: "here too"
+scriptCTF-2025:
+  ctftime_id: 2792
+  position: 20
+  team_name: "libbabel.so"
+  comments: "ezpz, selection ctf for libbabel"
+down-under-ctf-2025:
   ctftime_id: 2669
   position: 89
   team_name: "Milchlautsprecher"
