@@ -1,7 +1,7 @@
 ---
 title: "KISSFIXESS REVENGE"
 date: 2025-09-02T15:36:43+05:30
-tags: ['ssti']
+tags: ['ssti','xss']
 categories: ['web'] # for | crypto | osint | rev | pwn 
 authors: ['_cerealsoup', 'harshit_jain52']
 description: "strict template injection"

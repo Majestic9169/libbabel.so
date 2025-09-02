@@ -1,7 +1,7 @@
 ---
 title: "KISSFIXESS"
 date: 2025-09-02T15:30:50+05:30
-tags: ['ssti','python']
+tags: ['ssti','xss']
 categories: ['web'] # for | crypto | osint | rev | pwn 
 authors: ['harshit_jain52']
 description: "template injection"
