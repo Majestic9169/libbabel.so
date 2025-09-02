@@ -49,7 +49,7 @@ Python evaluates `pow` as follows. Characters from the output can be used
 
 ![image](./k6.png)
 
-Solve script (credits: [@CerealSoup](https://github.com/DarkGuy10)):
+Solve script:
 
 ```python
 from base64 import b64encode
