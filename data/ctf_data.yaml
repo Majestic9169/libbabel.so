@@ -1,3 +1,17 @@
+- comments: yay finals!
+  finish: '2025-09-14T16:00:00+00:00'
+  position: 48
+  start: '2025-09-12T16:00:00+00:00'
+  team_name: libbabel.so
+  title: '[DELAYED] CSAW CTF Qualification Round 2025'
+  weight: 16.47
+- comments: did this for just a day and still mogged
+  finish: '2025-09-14T12:00:00+00:00'
+  position: 25
+  start: '2025-09-12T12:00:00+00:00'
+  team_name: libbabel.so
+  title: FortID CTF 2025
+  weight: 30.0
 - comments: here too
   finish: '2025-08-31T10:00:00+00:00'
   position: 74
@@ -11,14 +25,14 @@
   start: '2025-08-22T12:00:00+00:00'
   team_name: Milchlautsprecher
   title: BrunnerCTF 2025
-  weight: 24.67
+  weight: 24.62
 - comments: ezpz, selection ctf for libbabel
   finish: '2025-08-18T00:00:00+00:00'
   position: 20
   start: '2025-08-16T00:00:00+00:00'
   team_name: libbabel.so
   title: scriptCTF 2025
-  weight: 24.67
+  weight: 24.74
 - comments: ts so tuff twin
   finish: '2025-07-20T09:30:00+00:00'
   position: 89
