@@ -1,3 +1,13 @@
+nitectf-2025:
+  ctftime_id: 2851
+  position: 71
+  team_name: "libbabel.so"
+  comments: "pkmkb, i will upsolve ts, no spoilers"
+backdoor-2025:
+  ctftime_id: 2915
+  position: 117
+  team_name: "libbabel.so"
+  comments: "pkmkb"
 csaw-quals-2025:
   ctftime_id: 2903
   position: 48
