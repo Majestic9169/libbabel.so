@@ -50,3 +50,11 @@ noobman99:
   joinDate: "2025-07-20"
   website: "https://noobman99.github.io/"
   github: "noobman99"
+rakshas:
+  name: "rakshas"
+  link: "/members/"
+  bio: "no"
+  image: "https://avatars.githubusercontent.com/u/177400024?v=4"
+  categories: ["for","osint"]
+  joinDate: "2025-08-31"
+  github: "RaRa1305"
