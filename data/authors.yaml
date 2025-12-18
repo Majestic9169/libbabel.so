@@ -58,3 +58,12 @@ rakshas:
   categories: ["for","osint"]
   joinDate: "2025-08-31"
   github: "RaRa1305"
+curious_codist:
+  name: "curious_codist"
+  link: "/members/"
+  bio: "idk man"
+  image: "https://avatars.githubusercontent.com/u/49161341?v=4"
+  categories: ["for","rev"]
+  joinDate: "2025-08-20"
+  github: "curious-codist"
+  
