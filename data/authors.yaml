@@ -66,4 +66,12 @@ curious_codist:
   categories: ["for","rev"]
   joinDate: "2025-08-20"
   github: "curious-codist"
+deadlycoder82:
+  name: "deadlycoder82"
+  link: "/members/"
+  bio: "write some code!!"
+  image: "https://avatars.githubusercontent.com/u/181501007?v=4"
+  categories: ["osint","rev","pwn"]
+  joinDate: "2025-08-20"
+  github: "amritansha82"
   
