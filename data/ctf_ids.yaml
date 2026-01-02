@@ -1,3 +1,8 @@
+0ctf-2025:
+  ctftime_id: 2997
+  position: 133
+  team_name: "libbabel.so"
+  comments: "we may have underestimated ts"
 nitectf-2025:
   ctftime_id: 2851
   position: 71
@@ -8,6 +13,16 @@ backdoor-2025:
   position: 117
   team_name: "libbabel.so"
   comments: "pkmkb"
+csaw-finals-2025:
+  ctftime_id: 2982
+  position: 31
+  team_name: "libbabel.so"
+  comments: "we were travelling to h7 finals while doing this, i swear i would have gotten the ebpf chal otherwise"
+h7-quals-2025:
+  ctftime_id: 2938
+  position: 18
+  team_name: "libbabel.so"
+  comments: "<3 abu (and cookie)! we came 3rd in finals which sadly are not on ctftime :("
 csaw-quals-2025:
   ctftime_id: 2903
   position: 48
