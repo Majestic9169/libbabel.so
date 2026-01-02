@@ -1,3 +1,10 @@
+- comments: we may have underestimated ts
+  finish: '2025-12-22T00:00:00+00:00'
+  position: 133
+  start: '2025-12-20T00:00:00+00:00'
+  team_name: libbabel.so
+  title: 0CTF 2025
+  weight: 96.88
 - comments: pkmkb, i will upsolve ts, no spoilers
   finish: '2025-12-14T12:00:00+00:00'
   position: 71
@@ -12,6 +19,22 @@
   team_name: libbabel.so
   title: BackdoorCTF 2025
   weight: 71.35
+- comments: we were travelling to h7 finals while doing this, i swear i would have
+    gotten the ebpf chal otherwise
+  finish: '2025-11-08T05:00:00+00:00'
+  position: 31
+  start: '2025-11-06T17:00:00+00:00'
+  team_name: libbabel.so
+  title: CSAW CTF Final Round 2025
+  weight: 25.0
+- comments: <3 abu (and cookie)! we came 3rd in finals which sadly are not on ctftime
+    :(
+  finish: '2025-10-19T15:30:00+00:00'
+  position: 18
+  start: '2025-10-18T03:30:00+00:00'
+  team_name: libbabel.so
+  title: H7CTF 2025
+  weight: 22.56
 - comments: yay finals!
   finish: '2025-09-14T16:00:00+00:00'
   position: 48
