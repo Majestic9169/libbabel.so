@@ -1,7 +1,7 @@
 ---
 title: "Smooth Criminal"
 date: 2026-03-15T22:58:02+05:30
-tags: ['beginner']
+tags: ['beginner', 'Pohlig Hellman']
 categories: ['crypto'] # for | crypto | osint | rev | pwn 
 authors: ['pastimeplays']
 description: "I like the theory behind this one"

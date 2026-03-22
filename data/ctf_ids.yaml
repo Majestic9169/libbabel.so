@@ -53,3 +53,8 @@ down-under-ctf-2025:
   position: 89
   team_name: "Milchlautsprecher"
   comments: "ts so tuff twin"
+UTCTF-2026:
+  ctftime_id: 3133
+  position: 52
+  team_name: "libbabel.so"
+  comments: "finally a full solve"
