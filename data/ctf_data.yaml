@@ -1,3 +1,10 @@
+- comments: finally a full solve
+  finish: '2026-03-15T00:23:00+00:00'
+  position: 52
+  start: '2026-03-13T00:23:00+00:00'
+  team_name: libbabel.so
+  title: UTCTF 2026
+  weight: 35.2
 - comments: we may have underestimated ts
   finish: '2025-12-22T00:00:00+00:00'
   position: 133
