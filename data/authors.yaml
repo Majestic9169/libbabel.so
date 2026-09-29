@@ -33,3 +33,61 @@ harshit_jain52:
   joinDate: "2025-07-20"
   website: "https://harshit-jain52.github.io/ctf/"
   github: "harshit-jain52"
+luhem:
+  name: "luhem"
+  link: "/members/"
+  bio: "I am"
+  image: "https://avatars.githubusercontent.com/u/139541264?v=4"
+  categories: ["osint"]
+  joinDate: "2025-07-20"
+  github: "mehulmathur05"
+noobman99:
+  name: "noobman99"
+  link: "/members/"
+  bio: "parth vader"
+  image: "https://avatars.githubusercontent.com/u/86371744?v=4"
+  categories: ["for","crypto"]
+  joinDate: "2025-07-20"
+  website: "https://noobman99.github.io/"
+  github: "noobman99"
+rakshas:
+  name: "rakshas"
+  link: "/members/"
+  bio: "no"
+  image: "https://avatars.githubusercontent.com/u/177400024?v=4"
+  categories: ["for","osint"]
+  joinDate: "2025-08-31"
+  github: "RaRa1305"
+curious_codist:
+  name: "curious_codist"
+  link: "/members/"
+  bio: "idk man"
+  image: "https://avatars.githubusercontent.com/u/49161341?v=4"
+  categories: ["for","rev"]
+  joinDate: "2025-08-20"
+  github: "curious-codist"
+deadlycoder82:
+  name: "deadlycoder82"
+  link: "/members/"
+  bio: "write some code!!"
+  image: "https://avatars.githubusercontent.com/u/181501007?v=4"
+  categories: ["osint","rev","pwn"]
+  joinDate: "2025-08-20"
+  github: "amritansha82"
+integralOfZero:
+  name: "integralOfZero"
+  link: "/members/"
+  bio: "Hesitation is Defeat"
+  image: "https://avatars.githubusercontent.com/u/92795575?v=4&size=64"
+  categories: ["pwn","for"]
+  joinDate: "2025-08-20"
+  github: "AnshumaanMishra"
+alex_rider:
+  name: "alex_rider"
+  link: "/members/"
+  bio: "Ehh...Should do some Crypto"
+  image: "https://avatars.githubusercontent.com/u/197240329?v=4&size=64"
+  categories: ["crypto"]
+  joinDate: "2025-08-20"
+  github: "jinansh-dalal"
+  

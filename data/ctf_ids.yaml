@@ -1,20 +1,217 @@
+0ctf-2025:
+  ctftime_id: 2997
+  position: 133
+  team_name: libbabel.so
+  comments: we may have underestimated ts
+nitectf-2025:
+  ctftime_id: 2851
+  position: 71
+  team_name: libbabel.so
+  comments: pkmkb, i will upsolve ts, no spoilers
+backdoor-2025:
+  ctftime_id: 2915
+  position: 117
+  team_name: libbabel.so
+  comments: pkmkb
+csaw-finals-2025:
+  ctftime_id: 2982
+  position: 31
+  team_name: libbabel.so
+  comments: we were travelling to h7 finals while doing this, i swear i would have
+    gotten the ebpf chal otherwise
+h7-quals-2025:
+  ctftime_id: 2938
+  position: 18
+  team_name: libbabel.so
+  comments: <3 abu (and cookie)! we came 3rd in finals which sadly are not on ctftime
+    :(
+csaw-quals-2025:
+  ctftime_id: 2903
+  position: 48
+  team_name: libbabel.so
+  comments: yay finals!
+fortid-ctf-2025:
+  ctftime_id: 2893
+  position: 25
+  team_name: libbabel.so
+  comments: did this for just a day and still mogged
 brunnerctf-2025:
   ctftime_id: 2835
   position: 56
-  team_name: "Milchlautsprecher"
-  comments: "vaibhav add some comments"
+  team_name: Milchlautsprecher
+  comments: vaibhav add some comments
 tfc-ctf-2025:
   ctftime_id: 2822
   position: 74
-  team_name: "Milchlautsprecher"
-  comments: "here too"
+  team_name: Milchlautsprecher
+  comments: here too
 scriptCTF-2025:
   ctftime_id: 2792
   position: 20
-  team_name: "libbabel.so"
-  comments: "ezpz, selection ctf for libbabel"
+  team_name: libbabel.so
+  comments: ezpz, selection ctf for libbabel
 down-under-ctf-2025:
   ctftime_id: 2669
   position: 89
-  team_name: "Milchlautsprecher"
-  comments: "ts so tuff twin"
+  team_name: Milchlautsprecher
+  comments: ts so tuff twin
+UTCTF-2026:
+  ctftime_id: 3133
+  position: 52
+  team_name: libbabel.so
+  comments: finally a full solve
+scriptCTF-2026:
+  ctftime_id: 3052
+  position: 16
+  team_name: libbabel.so
+  comments: ''
+UIUCTF-2026:
+  ctftime_id: 3148
+  position: 167
+  team_name: libbabel.so
+  comments: ''
+L3akCTF-2026:
+  ctftime_id: 3061
+  position: 215
+  team_name: libbabel.so
+  comments: ''
+OmniCTF-2026-Quals:
+  ctftime_id: 3104
+  position: 345
+  team_name: libbabel.so
+  comments: ''
+GPN-CTF-2026:
+  ctftime_id: 3041
+  position: 175
+  team_name: libbabel.so
+  comments: ''
+DEF-CON-CTF-Qualifier-2026:
+  ctftime_id: 3205
+  position: 496
+  team_name: libbabel.so
+  comments: ''
+TJCTF-2026:
+  ctftime_id: 3195
+  position: 218
+  team_name: libbabel.so
+  comments: ''
+Midnight-Sun-CTF-2026-Quals:
+  ctftime_id: 2773
+  position: 242
+  team_name: libbabel.so
+  comments: ''
+Break-The-Syntax-CTF-2026:
+  ctftime_id: 3137
+  position: 77
+  team_name: libbabel.so
+  comments: ''
+THCon-2K26-CTF:
+  ctftime_id: 3186
+  position: 75
+  team_name: libbabel.so
+  comments: ''
+KubSTU-CTF:
+  ctftime_id: 3177
+  position: 310
+  team_name: libbabel.so
+  comments: ''
+UMDCTF-2026:
+  ctftime_id: 3056
+  position: 176
+  team_name: libbabel.so
+  comments: ''
+b01lers-CTF-2026:
+  ctftime_id: 3153
+  position: 113
+  team_name: libbabel.so
+  comments: ''
+UMassCTF-2026:
+  ctftime_id: 2937
+  position: 305
+  team_name: libbabel.so
+  comments: ''
+DawgCTF-2026:
+  ctftime_id: 3102
+  position: 15
+  team_name: libbabel.so
+  comments: ''
+RITSEC-CTF-2026:
+  ctftime_id: 3096
+  position: 126
+  team_name: libbabel.so
+  comments: ''
+Codegate-CTF-2026-Preliminary:
+  ctftime_id: 3131
+  position: 327
+  team_name: libbabel.so
+  comments: ''
+KalmarCTF-2026:
+  ctftime_id: 2983
+  position: 223
+  team_name: libbabel.so
+  comments: ''
+TexSAW-2026:
+  ctftime_id: 3130
+  position: 164
+  team_name: libbabel.so
+  comments: ''
+TAMUctf-2026:
+  ctftime_id: 3095
+  position: 343
+  team_name: libbabel.so
+  comments: ''
+Midnight-Flag-CTF---EXECUTION:
+  ctftime_id: 3105
+  position: 187
+  team_name: libbabel.so
+  comments: ''
+ApoorvCTF-2026:
+  ctftime_id: 3171
+  position: 22
+  team_name: libbabel.so
+  comments: ''
+EHAX-CTF-2026:
+  ctftime_id: 3127
+  position: 174
+  team_name: libbabel.so
+  comments: ''
+RamadanCTF-2026:
+  ctftime_id: 3135
+  position: 65
+  team_name: libbabel.so
+  comments: ''
+0xFUN-CTF-2026:
+  ctftime_id: 3081
+  position: 47
+  team_name: libbabel.so
+  comments: ''
+Nullcon-Goa-HackIM-2026-CTF:
+  ctftime_id: 3066
+  position: 71
+  team_name: libbabel.so
+  comments: ''
+Pragyan-CTF-2026:
+  ctftime_id: 3058
+  position: 130
+  team_name: libbabel.so
+  comments: ''
+Eschaton-CTF-2026-Quals:
+  ctftime_id: 3072
+  position: 50
+  team_name: libbabel.so
+  comments: ''
+SWIMMER-OSINT-CTF:
+  ctftime_id: 2986
+  position: 170
+  team_name: libbabel.so
+  comments: ''
+UofTCTF-2026:
+  ctftime_id: 2969
+  position: 151
+  team_name: libbabel.so
+  comments: ''
+Securinets-CTF-Quals-2025:
+  ctftime_id: 2884
+  position: 239
+  team_name: libbabel.so
+  comments: ''

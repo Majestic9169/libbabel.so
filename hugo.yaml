@@ -46,11 +46,11 @@ menu:
       weight: 4
       params:
         type: search
-    # - name: GitHub
-    #   weight: 5
-    #   url: "https://github.com/imfing/hextra-starter-template"
-    #   params:
-    #     icon: github
+    - name: GitHub
+      weight: 5
+      url: "https://github.com/libbabel-so"
+      params:
+        icon: github
 
 params:
   description: Website of libbabel.so, the CTF Team of IIT Kharagpur

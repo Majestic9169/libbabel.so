@@ -1,3 +1,285 @@
+- comments: ''
+  finish: '2026-08-14T20:00:00+00:00'
+  position: 231
+  start: '2026-08-14T11:00:00+00:00'
+  team_name: libbabel.so
+  title: Thryve CTF 2026
+  weight: 0
+- comments: ''
+  finish: '2026-08-10T00:00:00+00:00'
+  position: 16
+  start: '2026-08-08T00:00:00+00:00'
+  team_name: libbabel.so
+  title: scriptCTF 2026
+  weight: 24.7
+- comments: ''
+  finish: '2026-08-10T00:00:00+00:00'
+  position: 167
+  start: '2026-08-08T00:00:00+00:00'
+  team_name: libbabel.so
+  title: UIUCTF 2026
+  weight: 69.35
+- comments: ''
+  finish: '2026-08-02T18:00:00+00:00'
+  position: 215
+  start: '2026-07-31T18:00:00+00:00'
+  team_name: libbabel.so
+  title: L3akCTF 2026
+  weight: 34.47
+- comments: ''
+  finish: '2026-07-19T15:00:00+00:00'
+  position: 345
+  start: '2026-07-17T15:00:00+00:00'
+  team_name: libbabel.so
+  title: OmniCTF 2026 Quals
+  weight: 23.96
+- comments: ''
+  finish: '2026-06-06T22:00:00+00:00'
+  position: 175
+  start: '2026-06-05T10:00:00+00:00'
+  team_name: libbabel.so
+  title: GPN CTF 2026
+  weight: 69.0
+- comments: ''
+  finish: '2026-05-24T21:00:00+00:00'
+  position: 496
+  start: '2026-05-22T21:00:00+00:00'
+  team_name: libbabel.so
+  title: DEF CON CTF Qualifier 2026
+  weight: 63.22
+- comments: ''
+  finish: '2026-05-17T16:00:00+00:00'
+  position: 218
+  start: '2026-05-15T16:00:00+00:00'
+  team_name: libbabel.so
+  title: TJCTF 2026
+  weight: 65.05
+- comments: ''
+  finish: '2026-05-11T13:00:00+00:00'
+  position: 242
+  start: '2026-05-10T13:00:00+00:00'
+  team_name: libbabel.so
+  title: Midnight Sun CTF 2026 Quals
+  weight: 48.17
+- comments: ''
+  finish: '2026-05-10T10:00:00+00:00'
+  position: 77
+  start: '2026-05-08T16:00:00+00:00'
+  team_name: libbabel.so
+  title: Break The Syntax CTF 2026
+  weight: 56.25
+- comments: ''
+  finish: '2026-05-08T11:00:00+00:00'
+  position: 75
+  start: '2026-05-07T11:00:00+00:00'
+  team_name: libbabel.so
+  title: THCon 2K26 CTF
+  weight: 34.67
+- comments: ''
+  finish: '2026-05-02T19:00:00+00:00'
+  position: 310
+  start: '2026-05-01T07:00:00+00:00'
+  team_name: libbabel.so
+  title: KubSTU CTF
+  weight: 24.83
+- comments: ''
+  finish: '2026-04-26T22:00:00+00:00'
+  position: 176
+  start: '2026-04-24T22:00:00+00:00'
+  team_name: libbabel.so
+  title: UMDCTF 2026
+  weight: 85.48
+- comments: ''
+  finish: '2026-04-20T00:00:00+00:00'
+  position: 113
+  start: '2026-04-18T00:00:00+00:00'
+  team_name: libbabel.so
+  title: b01lers CTF 2026
+  weight: 66.0
+- comments: ''
+  finish: '2026-04-12T22:00:00+00:00'
+  position: 305
+  start: '2026-04-10T22:00:00+00:00'
+  team_name: libbabel.so
+  title: UMassCTF 2026
+  weight: 65.95
+- comments: ''
+  finish: '2026-04-12T16:00:00+00:00'
+  position: 15
+  start: '2026-04-10T16:00:00+00:00'
+  team_name: libbabel.so
+  title: DawgCTF 2026
+  weight: 66.64
+- comments: ''
+  finish: '2026-04-05T21:00:00+00:00'
+  position: 126
+  start: '2026-04-03T21:00:00+00:00'
+  team_name: libbabel.so
+  title: RITSEC CTF 2026
+  weight: 48.64
+- comments: ''
+  finish: '2026-03-28T15:00:00+00:00'
+  position: 327
+  start: '2026-03-28T00:00:00+00:00'
+  team_name: libbabel.so
+  title: Codegate CTF 2026 Preliminary
+  weight: 62.0
+- comments: ''
+  finish: '2026-03-29T17:00:00+00:00'
+  position: 223
+  start: '2026-03-27T17:00:00+00:00'
+  team_name: libbabel.so
+  title: KalmarCTF 2026
+  weight: 49.97
+- comments: ''
+  finish: '2026-03-29T12:00:00+00:00'
+  position: 164
+  start: '2026-03-27T12:00:00+00:00'
+  team_name: libbabel.so
+  title: TexSAW 2026
+  weight: 41.59
+- comments: ''
+  finish: '2026-03-22T22:00:00+00:00'
+  position: 343
+  start: '2026-03-20T22:00:00+00:00'
+  team_name: libbabel.so
+  title: TAMUctf 2026
+  weight: 76.22
+- comments: ''
+  finish: '2026-03-15T20:00:00+00:00'
+  position: 187
+  start: '2026-03-13T20:00:00+00:00'
+  team_name: libbabel.so
+  title: Midnight Flag CTF - EXECUTION
+  weight: 24.5
+- comments: finally a full solve
+  finish: '2026-03-15T00:23:00+00:00'
+  position: 52
+  start: '2026-03-13T00:23:00+00:00'
+  team_name: libbabel.so
+  title: UTCTF 2026
+  weight: 35.2
+- comments: ''
+  finish: '2026-03-08T21:00:00+00:00'
+  position: 22
+  start: '2026-03-06T21:00:00+00:00'
+  team_name: libbabel.so
+  title: ApoorvCTF 2026
+  weight: 24.1
+- comments: ''
+  finish: '2026-03-01T06:30:00+00:00'
+  position: 174
+  start: '2026-02-27T18:30:00+00:00'
+  team_name: libbabel.so
+  title: EHAX CTF 2026
+  weight: 22.67
+- comments: ''
+  finish: '2026-03-17T00:00:00+00:00'
+  position: 65
+  start: '2026-02-18T00:00:00+00:00'
+  team_name: libbabel.so
+  title: RamadanCTF 2026
+  weight: 0
+- comments: ''
+  finish: '2026-02-14T18:00:00+00:00'
+  position: 47
+  start: '2026-02-12T18:00:00+00:00'
+  team_name: libbabel.so
+  title: 0xFUN CTF 2026
+  weight: 18.1
+- comments: ''
+  finish: '2026-02-08T08:30:00+00:00'
+  position: 71
+  start: '2026-02-07T08:30:00+00:00'
+  team_name: libbabel.so
+  title: Nullcon Goa HackIM 2026 CTF
+  weight: 24.72
+- comments: ''
+  finish: '2026-02-08T13:00:00+00:00'
+  position: 130
+  start: '2026-02-06T13:00:00+00:00'
+  team_name: libbabel.so
+  title: Pragyan CTF 2026
+  weight: 1.84
+- comments: ''
+  finish: '2026-02-01T04:30:00+00:00'
+  position: 50
+  start: '2026-01-31T04:30:00+00:00'
+  team_name: libbabel.so
+  title: Eschaton CTF 2026 Quals
+  weight: 23.42
+- comments: ''
+  finish: '2026-01-17T15:10:00+00:00'
+  position: 170
+  start: '2026-01-17T03:10:00+00:00'
+  team_name: libbabel.so
+  title: SWIMMER OSINT CTF
+  weight: 0.0
+- comments: ''
+  finish: '2026-01-12T00:00:00+00:00'
+  position: 151
+  start: '2026-01-10T00:00:00+00:00'
+  team_name: libbabel.so
+  title: UofTCTF 2026
+  weight: 33.49
+- comments: we may have underestimated ts
+  finish: '2025-12-22T00:00:00+00:00'
+  position: 133
+  start: '2025-12-20T00:00:00+00:00'
+  team_name: libbabel.so
+  title: 0CTF 2025
+  weight: 96.88
+- comments: pkmkb, i will upsolve ts, no spoilers
+  finish: '2025-12-14T12:00:00+00:00'
+  position: 71
+  start: '2025-12-12T12:00:00+00:00'
+  team_name: libbabel.so
+  title: niteCTF 2025
+  weight: 39.87
+- comments: pkmkb
+  finish: '2025-12-08T12:00:00+00:00'
+  position: 117
+  start: '2025-12-06T12:00:00+00:00'
+  team_name: libbabel.so
+  title: BackdoorCTF 2025
+  weight: 71.35
+- comments: we were travelling to h7 finals while doing this, i swear i would have
+    gotten the ebpf chal otherwise
+  finish: '2025-11-08T05:00:00+00:00'
+  position: 31
+  start: '2025-11-06T17:00:00+00:00'
+  team_name: libbabel.so
+  title: CSAW CTF Final Round 2025
+  weight: 25.0
+- comments: <3 abu (and cookie)! we came 3rd in finals which sadly are not on ctftime
+    :(
+  finish: '2025-10-19T15:30:00+00:00'
+  position: 18
+  start: '2025-10-18T03:30:00+00:00'
+  team_name: libbabel.so
+  title: H7CTF 2025
+  weight: 22.56
+- comments: ''
+  finish: '2025-10-05T21:00:00+00:00'
+  position: 239
+  start: '2025-10-04T13:00:00+00:00'
+  team_name: libbabel.so
+  title: Securinets CTF Quals 2025
+  weight: 70.5
+- comments: yay finals!
+  finish: '2025-09-14T16:00:00+00:00'
+  position: 48
+  start: '2025-09-12T16:00:00+00:00'
+  team_name: libbabel.so
+  title: CSAW CTF Qualification Round 2025
+  weight: 16.47
+- comments: did this for just a day and still mogged
+  finish: '2025-09-14T12:00:00+00:00'
+  position: 25
+  start: '2025-09-12T12:00:00+00:00'
+  team_name: libbabel.so
+  title: FortID CTF 2025
+  weight: 30.0
 - comments: here too
   finish: '2025-08-31T10:00:00+00:00'
   position: 74
@@ -11,14 +293,14 @@
   start: '2025-08-22T12:00:00+00:00'
   team_name: Milchlautsprecher
   title: BrunnerCTF 2025
-  weight: 24.67
+  weight: 24.66
 - comments: ezpz, selection ctf for libbabel
   finish: '2025-08-18T00:00:00+00:00'
   position: 20
   start: '2025-08-16T00:00:00+00:00'
   team_name: libbabel.so
   title: scriptCTF 2025
-  weight: 24.67
+  weight: 24.7
 - comments: ts so tuff twin
   finish: '2025-07-20T09:30:00+00:00'
   position: 89
