@@ -1,10 +1,59 @@
 - comments: ''
+  finish: '2026-09-27T15:30:00+00:00'
+  position: 34
+  start: '2026-09-26T03:30:00+00:00'
+  team_name: libbabel.so
+  title: H7CTF 2026 Quals
+  weight: 27.49
+- comments: ''
+  finish: '2026-09-20T16:00:00+00:00'
+  position: 74
+  start: '2026-09-18T16:00:00+00:00'
+  team_name: libbabel.so
+  title: CSAW CTF Qualification Round 2026
+  weight: 10.93
+- comments: ''
+  finish: '2026-09-06T10:00:00+00:00'
+  position: 161
+  start: '2026-09-05T10:00:00+00:00'
+  team_name: libbabel.so
+  title: TFC CTF 2026
+  weight: 77.08
+- comments: ''
+  finish: '2026-08-30T00:00:00+00:00'
+  position: 293
+  start: '2026-08-29T00:00:00+00:00'
+  team_name: libbabel.so
+  title: COMPFEST CTF 2026
+  weight: 96.0
+- comments: ''
+  finish: '2026-08-23T04:00:00+00:00'
+  position: 173
+  start: '2026-08-21T16:00:00+00:00'
+  team_name: libbabel.so
+  title: z0d1ak CTF Qualifiers
+  weight: 25.0
+- comments: ''
+  finish: '2026-08-23T12:00:00+00:00'
+  position: 203
+  start: '2026-08-21T12:00:00+00:00'
+  team_name: libbabel.so
+  title: BrunnerCTF 2026
+  weight: 24.66
+- comments: ''
+  finish: '2026-08-17T12:00:00+00:00'
+  position: 116
+  start: '2026-08-14T12:00:00+00:00'
+  team_name: libbabel.so
+  title: gaslightCTF 2026
+  weight: 24.75
+- comments: ''
   finish: '2026-08-14T20:00:00+00:00'
   position: 231
   start: '2026-08-14T11:00:00+00:00'
   team_name: libbabel.so
   title: Thryve CTF 2026
-  weight: 0
+  weight: 24.5
 - comments: ''
   finish: '2026-08-10T00:00:00+00:00'
   position: 16
@@ -186,7 +235,7 @@
   start: '2026-02-12T18:00:00+00:00'
   team_name: libbabel.so
   title: 0xFUN CTF 2026
-  weight: 18.1
+  weight: 17.74
 - comments: ''
   finish: '2026-02-08T08:30:00+00:00'
   position: 71
