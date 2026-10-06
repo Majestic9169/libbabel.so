@@ -90,4 +90,12 @@ alex_rider:
   categories: ["crypto"]
   joinDate: "2025-08-20"
   github: "jinansh-dalal"
-  
+dipamsen:
+  name: "dipamsen"
+  link: "/members/"
+  bio: "yes"
+  image: "https://avatars.githubusercontent.com/u/59444569?v=4"
+  categories: ["web"]
+  joinDate: "2026-08-15"
+  website: "https://dipamsen.github.io/"
+  github: "dipamsen"
