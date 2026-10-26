@@ -260,3 +260,8 @@ FortID-CTF-2026:
   position: 297
   team_name: libbabel.so
   comments: ''
+DEADFACE-CTF-2026:
+  ctftime_id: 3279
+  position: 523
+  team_name: libbabel.so
+  comments: ''
