@@ -1,4 +1,18 @@
 - comments: ''
+  finish: '2026-11-14T05:00:00+00:00'
+  position: 33
+  start: '2026-11-12T17:00:00+00:00'
+  team_name: libbabel.so
+  title: CSAW CTF Final Round 2026
+  weight: 1.0
+- comments: ''
+  finish: '2026-10-25T14:00:00+00:00'
+  position: 515
+  start: '2026-10-23T14:00:00+00:00'
+  team_name: libbabel.so
+  title: HITCON CTF 2026
+  weight: 91.16
+- comments: ''
   finish: '2026-10-25T00:30:00+00:00'
   position: 289
   start: '2026-10-23T00:30:00+00:00'
